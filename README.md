@@ -2,7 +2,7 @@
 
 ## Overview
 
-Movie Reccomender that trains a hybrid content-based and collaborative algorithm using the WARP loss function on the [movielens](http://grouplens.org/datasets/movielens/) dataset.
+Simple Movie Reccomender program that trains a hybrid content-based and collaborative algorithm using the WARP loss function on the [movielens](http://grouplens.org/datasets/movielens/) dataset.
 
 ## Dependencies
 
